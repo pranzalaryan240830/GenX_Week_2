@@ -3,7 +3,7 @@ package week_2;
 import java.util.Scanner;
 
 public class day_2_exception {
-
+	
 	public static void main(String[] args) {
 		
 		try {
