@@ -9,7 +9,7 @@ import java.util.Set;
 public class day_3_sets {
 
 	public static void main(String[] args) {
-		Set<String> s = new HashSet();
+		Set<String> s = new HashSet<String>();
 		s.add("Akash");
 		s.add("Manish");
 		s.add("Ajay");
